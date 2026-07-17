@@ -1,0 +1,6 @@
+{
+  "name": "ClearCut AI",
+  "description": "A 100% free, high-quality, open-source alternative to remove.bg for instant background removal and replacement, running fully local in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
