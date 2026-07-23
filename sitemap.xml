@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+if (request.url.endsWith('/sitemap.xml')) {
+  const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://sitemaps.org">
   <url>
-    <loc>https://workers.dev</loc>
-    <lastmod>2026-07-22</lastmod>
+    <loc>https://clearcutai.cutai.workers.dev/</loc>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-</urlset>
+</urlset>`;
+
+  return new Response(sitemapXml, {
+    headers: { 'content-type': 'application/xml' },
+  });
+}
