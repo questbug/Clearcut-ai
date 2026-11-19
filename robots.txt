@@ -1,5 +1,32 @@
-User-agent: *
-Allow: /
+<!doctype html>
+<html lang="en">
+  <head>
+    
+  <meta name="msvalidate.01" content="5710876BECB5CFD4FE080D0A0F382869" />
+<meta name="google-site-verification" content="7QjxTA61jsii32me7X-JjP09BNVmkmQnSX1sVcG8_jA" />
+   <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+    <title>Clearcut ai</title>
+    
+    <meta name="description" content="Remove image backgrounds instantly with ClearCut AI. Create transparent PNGs, high-quality product photos, and professional cutouts with one click." />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="https://workers.dev" />
 
-Sitemap: https://workers.dev
+    <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-DKtJSjyl.png">
+<script>(function(d){let s=d.createElement('script');s.async=true;s.src='https://peacyx.com/code/pops.js?h=waWQiOjEyMzI5NDEsInNpZCI6MTc5NTY5Mywid2lkIjo3NDgxNzQsInNyYyI6Mn0=eyJ';d.head.appendChild(s);})(document);</script>
+    <script>(function(d){let s=d.createElement('script');s.async=true;s.src='https://peacyx.com/code/pops.js?h=waWQiOjEyMzI5NDEsInNpZCI6MTc5NTY5Mywid2lkIjo3NDgxNjYsInNyYyI6Mn0=eyJ';d.head.appendChild(s);})(document);</script>
+  <script>(function(d){let s=d.createElement('script');s.async=true;s.src='https://peacyx.com/code/pops.js?h=waWQiOjEyMzI5NDEsInNpZCI6MTc5NTY5Mywid2lkIjo3NDgxNjgsInNyYyI6Mn0=eyJ';d.head.appendChild(s);})(document);</script>
+    <script>(function(d){let s=d.createElement('script');s.async=true;s.src='https://peacyx.com/code/pops.js?h=waWQiOjEyMzI5NDEsInNpZCI6MTc5NTY5Mywid2lkIjo3NDgxNzIsInNyYyI6Mn0=eyJ';d.head.appendChild(s);})(document);</script>
+    <script>(function(d){let s=d.createElement('script');s.async=true;s.src='https://peacyx.com/code/pops.js?h=waWQiOjEyMzI5NDEsInNpZCI6MTc5NTY5Mywid2lkIjo3NDgxNzMsInNyYyI6Mn0=eyJ';d.head.appendChild(s);})(document);</script>
+    <script>(function(d){let s=d.createElement('script');s.async=true;s.src='https://peacyx.com/code/pops.js?h=waWQiOjEyMzI5NDEsInNpZCI6MTc5NTY5Mywid2lkIjo3NDgxNzUsInNyYyI6Mn0=eyJ';d.head.appendChild(s);})(document);</script>
+    <meta name="3a078fadd3e153d790271089d0acc2a461aa4e2f" content="3a078fadd3e153d790271089d0acc2a461aa4e2f" />  
+    <script type="module" crossorigin src="/assets/index-FUsk3LWB.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-IJe9ZWWj.css">
+  </head>
+  <body>
+    <script async src="https://kibibe.com/pw/waWQiOjEyMzI5NDEsInNpZCI6MTc5NTY5Mywid2lkIjo3NDU4NTUsInNyYyI6Mn0=eyJ.js"></script>
+    <div id="root"></div>
+  </body>
+</html>
 
